@@ -34,6 +34,9 @@ header {
     margin-bottom: 0px ;
     margin-top: 0px;
 }
+.medium3 a {
+        text-align: center;
+}
 .down {
     display: flex;
     justify-content: space-around;
@@ -235,6 +238,7 @@ header {
     }
 
 }
+
 
 
 
