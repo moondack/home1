@@ -34,10 +34,7 @@ header {
     margin-bottom: 0px ;
     margin-top: 0px;
 }
- .otzyv a {
-    display: flex;
-    text-align: center;
-}
+
 .down {
     display: flex;
     justify-content: space-around;
@@ -239,6 +236,7 @@ header {
     }
 
 }
+
 
 
 
