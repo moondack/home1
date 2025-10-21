@@ -34,8 +34,9 @@ header {
     margin-bottom: 0px ;
     margin-top: 0px;
 }
- a {
-        text-align: center;
+ .medium3 a {
+    display: flex;
+    text-align: center;
 }
 .down {
     display: flex;
