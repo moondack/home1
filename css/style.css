@@ -34,6 +34,7 @@ header {
     font-weight: bold;
     margin-bottom: 0px ;
     margin-top: 0px;
+    text-alin: center
 }
 .down {
     display: flex;
@@ -236,3 +237,4 @@ header {
     }
 
 }
+
