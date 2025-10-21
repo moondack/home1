@@ -9,7 +9,6 @@ header {
     font-weight: bold;
     letter-spacing: 20px;
     margin: 65px;
-    position: fixed;
 }
 .medium1 {
     text-decoration: none;
@@ -237,6 +236,7 @@ header {
     }
 
 }
+
 
 
 
