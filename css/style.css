@@ -1,4 +1,4 @@
-header 
+header {
     font-family: "Inter", sans-serif
 }
 .up {
@@ -33,6 +33,10 @@ header
     font-weight: bold;
     margin-bottom: 0px ;
     margin-top: 0px;
+}
+ .otzyv a {
+    display: flex;
+    text-align: center;
 }
 .down {
     display: flex;
@@ -235,3 +239,11 @@ header
     }
 
 }
+
+
+
+
+
+
+
+
